@@ -10,5 +10,7 @@ m = parseInt(m)
 }
 else 
 {
-    console.log("Please enter Numbers!");
+    console.log("Please entersadasd Numbers123!");
+    console.log("Please entersadasd Numbers123!");
+
 }
